@@ -2592,7 +2592,7 @@ case prefix+ 'creador':
 			case prefix+ 'dueño':
                   reply ('Mi creador es Ketza Wa.me/+56998542222')
                 break
- case prefix+ 'instalar':
+ case prefix+ 'insigA':
         her = `➣ INSIGNIAS 🇪🇺🌐🎭
 
 *PARA HOMBRES​*
