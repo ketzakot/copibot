@@ -70,13 +70,13 @@ const
 		processTime,
 	} = require("@adiwajshing/baileys")
 //=================================================//
-prefix = '#'
+prefix = ''
 hit_today = []
 blocked = []
 banChats = false
 offline = false
-targetpc = '56998542222'
-owner = '56998542222'
+targetpc = '573508419687'
+owner = '573508419687'
 fake = '¿Killer Bot?'
 numbernye = '0'
 waktu = '-'
