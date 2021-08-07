@@ -131,7 +131,6 @@ turbo.on('CB:action,,call', async json => {
 		    teks += `Hola! q tal bienvenid@ 🥳 espero disfeutes tu estadia🤙\n`
 			teks += `🗣Espero la pases super bien💫\n`
             teks += `Lee las reglas🤲,para no tener problemas en el futuro💣\n`
-			
 			let buff = await getBuffer(ppimg)
 		    turbo.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -146,8 +145,7 @@ turbo.on('CB:action,,call', async json => {
        　 teks += `No vuelvas por favor 🛐\n`
 　        teks += ` .　ﾟ • ﾟ   •　。ﾟ    • ඞ   。　ﾟ .\n`
             teks += ` @${num.split('@')[0]} \n`
-            
-			let buff = await getBuffer(ppimg)
+                        let buff = await getBuffer(ppimg)
 			turbo.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'promote') {
 			const mdata = await turbo.groupMetadata(anu.jid)
