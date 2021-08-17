@@ -2598,24 +2598,21 @@ case prefix+ 'creador':
 			case prefix+ 'dueño':
                   reply ('Mi creador es Ketza Wa.me/+56998542222')
                 break
- case prefix+ 'insiga':
-        her = `➣ INSIGNIAS 🇪🇺🌐🎭
+ case prefix+ 'igtitans':
+        her = `INSIGNIAS OBLIGATORIAS
 
-*PARA HOMBRES​*
+[HOMBRES]
 
-꧁ཹ𝄣⃢🎭•••••••••¢꙰꙱꙲𝄣⃢🌐꧂
+🐉⃢⃚⃜͜͡➫Nombre˿⃖🔥⃟⃚᪵⃜༄᪵
 
-🎭ঔৣۣ͜͡❰•••••••••❱ঔৣ͡🌐 ҈҈
 
-PARA MUJERES
+[MUJERES]
 
-꧁ཹ𝄣⃢🎭⋆͙࿆̈❥••••••••¢꙰꙱꙲𝄣⃢🌹꧂
+🔥⃢⃚⃜͜͡➫Nombre⃟᪵⃜🦋
 
-꧁⃟̵֟ꦿ🎭❮•••••••••❯🌹⃟֟ꦿ꧂
+[BUSINESS] 
 
-Para business
-
-ᵃⁿᵒⁿʸᵐᵒᵘˢ
+ᵗⁱᵗᵃⁿˢ
 `
 faketokoforwaded(her)
 break
