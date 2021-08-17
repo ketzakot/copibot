@@ -128,7 +128,7 @@ turbo.on('CB:action,,call', async json => {
 			teks += `║➣ BIENVENID@\n`
 			teks += `║➣ ${mdata.subject}\n`			
 			teks += `╰─────••◈••────╯\n`
-		    teks += `Hola! q tal bienvenid@ 🥳 espero disfeutes tu estadia🤙\n`
+		    teks += `Hola! q tal bienvenid@ 🥳 espero disfrutes tu estadia🤙\n`
 			teks += `🗣Espero la pases super bien💫\n`
             teks += `Lee las reglas🤲,para no tener problemas en el futuro💣\n`
 			let buff = await getBuffer(ppimg)
@@ -995,7 +995,7 @@ switch (command) {
 ✔︎ 
 ఌ︎𝙺𝚎𝚝𝚣𝚊𝚔𝚘𝚝.li & 𝙼𝚘𝚗𝚝𝚜𝚎𝚛𝚛𝚊𝚝☀︎︎.li
 
-Que hubo pes parcero *${pushname}*
+Que hubo pues parcero *${pushname}*
 Que mas pues yo soy crazybot y este es mi menu
 ┏━━━━━━━━━━━━━┓
 ∝╬→Prefix 『 ${prefix} 』
