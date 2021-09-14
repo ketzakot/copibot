@@ -1194,10 +1194,7 @@ buf = fs.readFileSync(`./audio/putobot.mp3`)
 Fg.sendMessage(from, buf, audio, {
   mimetype: 'audio/mp4', quoted: mek, ptt: true
 })
-break
-
-    
-}  
+brak
 		
  //Set Owner For gc
     case prefix+ 'public':
