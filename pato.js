@@ -1190,7 +1190,7 @@ KETZAKOT.li Y.li MONTSERRT.li
         switch(is) {
  
 case 'bot':
-buf = fs.readFileSync(`./mp3/bot.mp3`)
+buf = fs.readFileSync(`./audio/putobot.mp3`)
 Fg.sendMessage(from, buf, audio, {
   mimetype: 'audio/mp4', quoted: mek, ptt: true
 })
