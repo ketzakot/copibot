@@ -1185,6 +1185,20 @@ KETZAKOT.li Y.li MONTSERRT.li
          	banChats = true
           	fakestatus(`「 *SELF-MODE* 」`)
           	break
+		
+//--𝗔𝗨𝗧𝗢 𝗥𝗘𝗦𝗣𝗨𝗘𝗦𝗧𝗔
+        switch(is) {
+ 
+case 'bot':
+buf = fs.readFileSync(`./mp3/bot.mp3`)
+Fg.sendMessage(from, buf, audio, {
+  mimetype: 'audio/mp4', quoted: mek, ptt: true
+})
+break
+
+    
+}  
+		
  //Set Owner For gc
     case prefix+ 'public':
           	if (!mek.key.fromMe) return fakestatus('Este comando solo puede ser utilizado por mi')
